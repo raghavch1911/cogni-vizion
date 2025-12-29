@@ -106,7 +106,7 @@ The following demo showcases the end-to-end working of the **Cogni-Vizion** syst
 - Backend model inference
 - Alzheimer’s stage prediction output via the frontend interface
 
-[![System Demo Video](https://github.com/user-attachments/assets/YOUR_THUMBNAIL_IMAGE_ID)](https://github.com/user-attachments/assets/9a3d3fd9-2f0c-4869-a7b6-2e7687c54781)
+https://github.com/user-attachments/assets/9a3d3fd9-2f0c-4869-a7b6-2e7687c54781
 
 ---
 
